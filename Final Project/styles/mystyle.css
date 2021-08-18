@@ -4,6 +4,8 @@ body{
 	padding:0px;
 	
 }
+
+
 .card{
 	border:1px solid black;
 	width:300px;
@@ -72,7 +74,7 @@ body{
 	font-size:16px;
 }
 
-.card-product{
+/*.card-product{
 	border:1px solid;
 	width:200px;
 	height:300px;
@@ -85,7 +87,8 @@ body{
 	
 	
 }
-.card-image{
+*/
+/*.card-image{
 	width:190px;
 	height:190px;
 	border-radius: 5px;
@@ -94,7 +97,8 @@ body{
 	text-align:center;
 	
 }
-.price-label{
+*/
+/*.price-label{
 	width:185px;
 	padding:3px;
 	margin-left:2px;
@@ -102,17 +106,19 @@ body{
 	color:white;
 	border-radius: 5px;
 }
+*/
 .center-index{
 	margin: 0 auto;
     width:90% ;
 	padding:20px;
 			
 }
-.item-image{
+/*.item-image{
 	width:200px;
 	height:250px;
 	border-radius: 5px;
 }
+*/
 .center-login{
 	position: absolute;
 	left: 50%;
@@ -131,6 +137,7 @@ body{
 .btn{
 	font-family:consolas;
 }
+
 
 
 

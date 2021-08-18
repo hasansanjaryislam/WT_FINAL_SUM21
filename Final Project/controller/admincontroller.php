@@ -1,5 +1,7 @@
 <?php
-	include 'model/webtech_final_project.php';
+
+session_start();
+	include_once 'model/webtech_final_project.php';
 	
 	$name="";
 	$err_name="";
@@ -239,7 +241,8 @@
 
 		if(!$hasError){
 			if(authenticateUser($uname,$pass)){
-				header("Location:dashboard.php?uname=$uname");
+				$_SESSION["loggeduser"] = $uname;
+				header("Location:dashboard.php");
 			}
 			$err_db  = "Username and password invalid";
 		}

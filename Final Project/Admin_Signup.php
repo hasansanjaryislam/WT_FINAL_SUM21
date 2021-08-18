@@ -1,7 +1,8 @@
-<?php include 'Main_header.php';?>
+<?php 
+include_once 'Main_header.php';?>
 <?php
 
-	include 'controller/usercontroller.php';
+	include_once 'controller/admincontroller.php';
 ?>
 
 

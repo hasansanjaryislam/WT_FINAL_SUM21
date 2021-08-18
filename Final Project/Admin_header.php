@@ -6,5 +6,5 @@
 	</head>
 	<body>
 		<div class="text-center">
-			<h1 class="header">Welcome Admin</h1>
+			<h1 class="header">Admin Panel</h1>
 		</div>

@@ -1,5 +1,7 @@
-<?php include 'Main_header.php';
-	include 'controller/usercontroller.php';
+<?php 
+
+	include_once 'Main_header.php';
+	include_once 'controller/admincontroller.php';
 ?>
 
 <div class="center-login">

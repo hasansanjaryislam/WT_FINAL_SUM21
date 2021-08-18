@@ -9,7 +9,7 @@
 		<div class="header-index">
 			<a class="btn"><b class="text-white name">NAVANA REAL ESTATE LTD</b></a>
 			<div class="pull-right">
-				<a class="btn btn-success" href="index.php">Home</a>
+				<a class="btn btn-success" href="home.php">Home</a>
 				<a class="btn btn-danger" href="Admin_login.php">Login</a>
 			</div>
 			
